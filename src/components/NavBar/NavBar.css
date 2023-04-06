@@ -1,0 +1,110 @@
+.navbar_component{
+    width: 100vw;
+    height: 70px;
+    background: #131A22;
+    display: flex;
+}
+.navbar_logo{
+  /* background: url(https://ik.imagekit.io/jx7oq4qzs/amazon-image/sprite_350x.png?updatedAt=1679550196136); */
+  background: url(https://ik.imagekit.io/jx7oq4qzs/amazon-image/sprite_350x.png?updatedAt=1679550196136) no-repeat -9px -50px;
+	width: 98px;
+	height: 33px;
+    margin: 18px;
+    margin-left: 2px;
+
+}
+.navbar_location{
+    color: white;
+    margin-left: 8px;
+}
+.navbar_lovatorImage{
+    background: url(https://ik.imagekit.io/jx7oq4qzs/amazon-image/sprite_350x.png?updatedAt=1679550196136) no-repeat -70px -305px;
+	width: 19px;
+	height: 22px;
+}
+.navbar_locator{
+    display: flex;
+    margin: 20px;
+    margin-left: 2px;
+}
+.navbar_secrchbox{
+    width: 640px;
+    height: 38px;
+    margin-top: 8px;
+}
+.navbar_serchIcon{
+    background: url(https://ik.imagekit.io/jx7oq4qzs/amazon-image/sprite_350x.png?updatedAt=1679550196136) no-repeat -9px -289px;
+	width: 23px;
+	height: 23px;
+    margin: 13px;
+}
+.navbar_Searchcomponennt{
+    display: flex;
+    
+}
+.nav_searchbardiv{
+    background-color: #febe68;
+    width: 48px;
+    height: 42px;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 9px;
+}
+.navbar_dropdown{
+    width: 42px;
+    height: 44px;
+    margin-top: 8px;
+    border-radius: 5px 0px 0px 5px;
+    text-align-last: center;
+    background-color: #e6e5e5; 
+}
+.navbar_signIn{
+ width: 120px;
+ margin-top: 10px;
+ margin-left: 50px;
+}
+.navbar_retrun{
+   width: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.navbar_Cart{
+ display: flex;
+ margin-top: 10px;
+ margin-left: 10px;
+}
+.navbar_text{
+    color: white;
+}
+
+.cart_image{
+    background: url(https://ik.imagekit.io/jx7oq4qzs/amazon-image/sprite_350x.png?updatedAt=1679550196136) no-repeat -217px -336px;
+	width: 43px;
+	height: 30px;
+    
+}
+.navbar_textCart{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: -10px;
+}
+.cart_item{
+    font-weight: bold;
+    position: relative;
+    left: -23px;
+    top: -3px;
+    color: #F08805;
+}
+.navbar_footer{
+    width: 100vw;
+    height: 30px;
+    background-color: #22303E;
+    color: white;
+    display: flex;
+}
+.navbar_footer_text{
+    margin: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,20 @@
+.Advertiesment_main{
+ width: 335px;
+ height: 380px;
+ background: white;
+ margin: 10px;
+}
+.Adverstiesment_header{
+   font-size: 21px;
+   line-height: 27px;
+   font-weight: bold;
+   padding: 15px;
+}
+.Advertiesment_body{
+    padding-left: 15px;
+
+}
+.Advertiesment_footer{
+    padding: 15px;
+
+}
